@@ -1,6 +1,6 @@
 import FoodRecipe from '@/components/AnswerToQuestion/FoodRecipe/FoodRecipe';
 import SearchFoodRecipe from '@/components/AnswerToQuestion/FoodRecipe/SearchFoodRecipe';
-import RecommendFoodList from '@/components/AnswerToQuestion/\bRecommendFood.tsx/RecommendFoodList';
+import RecommendFoodList from '@/components/AnswerToQuestion/RecommendFood.tsx/RecommendFoodList';
 
 const AnswerToQuestion = () => {
   return (
